@@ -11,7 +11,7 @@ const Projects = () => {
       description: 'A responsive website for a tattoo studio showcasing their work, artists, and booking system.',
       image: 'https://images.unsplash.com/photo-1590246814883-57004f3b7183?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80',
       tags: ['React', 'Node.js', 'MongoDB'],
-      githubLink: 'https://github.com',
+      githubLink: 'https://github.com/kiranchaudhary18/tattoos_website',
       demoLink: 'https://example.com',
     },
     {
@@ -31,6 +31,15 @@ const Projects = () => {
       tags: ['React', 'Express', 'Node.js', 'Mongodb'],
       githubLink: 'https://github.com/kiranchaudhary18/youtube.com',
       demoLink: 'https://example.com',
+    },
+    {
+      id: 4,
+      title: 'Countdown Timer',
+      description: ' created a countdown timer that allows users to set a time and track the remaining duration until it reaches zero.',
+      image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1740976402/countdown_apzxof.png',
+      tags: ['JavaScript', 'HTML', 'CSS'],
+      githubLink: 'https://github.com/kiranchaudhary18/countdownTimer',
+      demoLink: 'https://preeminent-peony-172547.netlify.app/',
     },
     {
       id: 4,
@@ -114,7 +123,7 @@ const Projects = () => {
 
       <div className="video-container">
         <video autoPlay loop muted playsInline>
-          <source src="https://res.cloudinary.com/dnbayngfx/video/upload/v1740977183/Vite_React_-_28_February_2025_2_eeubsa.mp4" type="video/mp4" />
+          <source src="https://res.cloudinary.com/dnbayngfx/video/upload/v1740983620/Vite_React_-_28_February_2025_2_online-video-cutter.com_zhc6mh.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
