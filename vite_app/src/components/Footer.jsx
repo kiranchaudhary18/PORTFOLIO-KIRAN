@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="container footer-container">
         <div className="footer-info">
-          <h2 className="footer-name">John Doe</h2>
+          <h2 className="footer-name">Kiran Dekaliya</h2>
           <p className="footer-title">Full-Stack Developer</p>
         </div>
         
@@ -46,7 +46,7 @@ const Footer = () => {
         
         <div className="footer-bottom">
           <p className="footer-copyright">
-            &copy; {currentYear} John Doe. All rights reserved.
+            &copy; {currentYear} Kiran Dekaliya. All rights reserved.
           </p>
           <div className="footer-links">
             <a href="#home" className="footer-link">

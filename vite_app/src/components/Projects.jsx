@@ -41,15 +41,7 @@ const Projects = () => {
       githubLink: 'https://github.com/kiranchaudhary18/countdownTimer',
       demoLink: 'https://preeminent-peony-172547.netlify.app/',
     },
-    {
-      id: 4,
-      title: 'Countdown Timer',
-      description: ' created a countdown timer that allows users to set a time and track the remaining duration until it reaches zero.',
-      image: 'https://res.cloudinary.com/dnbayngfx/image/upload/v1740976402/countdown_apzxof.png',
-      tags: ['JavaScript', 'HTML', 'CSS'],
-      githubLink: 'https://github.com/kiranchaudhary18/countdownTimer',
-      demoLink: 'https://preeminent-peony-172547.netlify.app/',
-    },
+   
   ];
 
   const filters = ['all', 'React', 'Node.js', 'JavaScript',  'MongoDB','HTML/CSS'];
